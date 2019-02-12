@@ -15,7 +15,6 @@ const styles = {
 
 const App = () => {
   return (
-    
     <div style={styles}>
             <HeaderContainer/>
             <CardComponents/>
